@@ -1,0 +1,13 @@
+node_modules/
+dist/
+data/
+uploads/
+*.db
+*.db-*
+jwt.key
+.env
+.env.*
+!.env.example
+/deploy/.runtime/
+*.exe
+*.mp4
